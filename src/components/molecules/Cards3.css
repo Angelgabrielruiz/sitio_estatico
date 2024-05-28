@@ -1,0 +1,9 @@
+#contenedor3-img-text{
+ width: 100%;
+ display: flex;
+  justify-content:end;
+   align-items : center;
+  padding: 10px;
+    
+}
+

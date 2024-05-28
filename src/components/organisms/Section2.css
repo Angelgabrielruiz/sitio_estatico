@@ -1,0 +1,9 @@
+#seccion2{
+    display: flex;
+    padding: 10px;
+    border-radius: 2px solid black;
+    width: 80%;
+    background-color: rgb(66, 5, 5);
+    flex-direction: column;
+    text-align: center;
+}
